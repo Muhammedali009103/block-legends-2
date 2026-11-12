@@ -1,1 +1,64 @@
 
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BLOCK LEGENDS 2</title>
+<style>
+body {
+  margin: 0;
+  background: #101510;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+header { padding: 55px 15px; }
+h1 { color: #72ff36; font-size: 38px; }
+p { color: #c9d3c5; line-height: 1.6; }
+.card {
+  background: #1c281c;
+  margin: 15px auto;
+  padding: 20px;
+  border: 1px solid #477b36;
+  border-radius: 12px;
+  max-width: 500px;
+}
+button {
+  background: #72ff36;
+  color: #101510;
+  border: 0;
+  padding: 14px 25px;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 16px;
+}
+footer { padding: 25px; color: #82917d; }
+</style>
+</head>
+<body>
+<header>
+  <h1>BLOCK LEGENDS 2</h1>
+  <p>Yeni blok dünyasına hazır ol!</p>
+  <button>YAKINDA BETA</button>
+</header>
+
+<div class="card">
+  <h2>🎮 Oyun Modları</h2>
+  <p>Survival • Creative • BedWars • SkyWars • PvP</p>
+</div>
+
+<div class="card">
+  <h2>🌍 Büyük Blok Dünyası</h2>
+  <p>Tek oyunculu ve çok oyunculu macera. Mobil ve PC desteği planlanıyor.</p>
+</div>
+
+<div class="card">
+  <h2>🚀 Beta 0.1</h2>
+  <p>İlk test için hedef: 70–80 oyuncu.</p>
+  <p>Beta başvuruları yakında açılacak.</p>
+</div>
+
+<footer>BLOCK LEGENDS 2 © 2026</footer>
+</body>
+</html>
